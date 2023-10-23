@@ -8,6 +8,7 @@ To encrypt a message :
 
 To decrypt a message :
     $cargo run "podhwghs" -14
+        -> "baptiste"
 
 To see if you pass the units tests :
     $cargo test
